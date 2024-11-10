@@ -3,3 +3,4 @@ werkzeug==2.0.3
 dateparser==1.1.1
 gunicorn
 pytz==2024.1
+holidays==0.25
